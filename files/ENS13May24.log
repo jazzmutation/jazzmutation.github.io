@@ -1,20 +1,18 @@
-2024-05-13 08:34:34,073	INFO	Start main routine for show ENS13May24
-2024-05-13 08:34:34,073	INFO	Removing old working directory /srv/mm/3rrr/work06May
-2024-05-13 08:34:34,075	INFO	Removing old show directory /srv/mm/3rrr/show06May
-2024-05-13 08:34:34,252	INFO	mplayer cmd: mplayer -endpos 00:02:00 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work13May/ENS13May24.wav_1.wav http://realtime.rrr.org.au/p1h
-2024-05-13 08:34:34,276	INFO	waiting for mplayer to start, count:0
-2024-05-13 08:34:35,287	INFO	waiting for the wav file to grow, size:0
-2024-05-13 08:34:36,288	INFO	waiting for the wav file to grow, size:1835008
-2024-05-13 08:34:37,294	INFO	sampling rate is 44100
-2024-05-13 08:34:37,295	INFO	Status info: rc is 1  runtime is 0  remtime is 120   fsize is 2162688
-2024-05-13 08:36:37,414	INFO	Show ENS remaining time: 0
-2024-05-13 08:36:42,420	INFO	sox cmd: sox /srv/mm/3rrr/work13May/ENS13May24.wav_1.wav /srv/mm/3rrr/work13May/ENS13May24.wav
-2024-05-13 08:36:42,644	INFO	sox cmd: sox /srv/mm/3rrr/work13May/ENS13May24.wav -c1 -b16 /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav_mon.wav
-2024-05-13 08:36:42,886	INFO	sox cmd: sox /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav_loud.wav compand 0.01,1 -90,-90,-70,-70,-60,-20,0,0 -5
-2024-05-13 08:36:43,782	INFO	lame cmd: lame --quiet -b 320 --add-id3v2 --ty 2024 --tt Einstein A Go Go - 13 May 2024 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Podcast --ta Einstein A Go Go --tl Triple R FM /srv/mm/3rrr/work13May/ENS13May24.wav /srv/mm/3rrr/work13May/ENS13May24.mp3
-2024-05-13 08:36:50,065	INFO	lame cmd: lame --quiet --preset 64 --add-id3v2 --ty 2024 --tt Einstein A Go Go - 13 May 2024 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Speech --ta Triple R --tl Triple R /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.mp3
-2024-05-13 08:36:56,665	INFO	Removing stale latest directory /srv/mm/3rrr/latest/ENS/
-2024-05-13 08:36:56,666	INFO	Copy the ENS show files to show and latest folders
-2024-05-13 08:36:56,772	INFO	Local web server publishing of files started
-2024-05-13 08:36:56,776	INFO	Delete local web server archive file /var/www/eagg/files/archive/Einstein-A-Go-Go-20240318.mp3
-2024-05-13 08:36:56,776	INFO	Github publishing of files started
+2024-05-13 08:48:39,050	INFO	Start main routine for show ENS13May24
+2024-05-13 08:48:39,171	INFO	mplayer cmd: mplayer -endpos 00:02:00 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work13May/ENS13May24.wav_1.wav http://realtime.rrr.org.au/p1h
+2024-05-13 08:48:39,182	INFO	waiting for mplayer to start, count:0
+2024-05-13 08:48:40,194	INFO	waiting for the wav file to grow, size:0
+2024-05-13 08:48:41,195	INFO	waiting for the wav file to grow, size:1638400
+2024-05-13 08:48:42,202	INFO	sampling rate is 44100
+2024-05-13 08:48:42,202	INFO	Status info: rc is 1  runtime is 0  remtime is 120   fsize is 2031616
+2024-05-13 08:50:42,327	INFO	Show ENS remaining time: 0
+2024-05-13 08:50:47,332	INFO	sox cmd: sox /srv/mm/3rrr/work13May/ENS13May24.wav_1.wav /srv/mm/3rrr/work13May/ENS13May24.wav
+2024-05-13 08:50:47,918	INFO	sox cmd: sox /srv/mm/3rrr/work13May/ENS13May24.wav -c1 -b16 /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav_mon.wav
+2024-05-13 08:50:48,247	INFO	sox cmd: sox /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav_loud.wav compand 0.01,1 -90,-90,-70,-70,-60,-20,0,0 -5
+2024-05-13 08:50:48,889	INFO	lame cmd: lame --quiet -b 320 --add-id3v2 --ty 2024 --tt Einstein A Go Go - 13 May 2024 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Podcast --ta Einstein A Go Go --tl Triple R FM /srv/mm/3rrr/work13May/ENS13May24.wav /srv/mm/3rrr/work13May/ENS13May24.mp3
+2024-05-13 08:50:54,862	INFO	lame cmd: lame --quiet --preset 64 --add-id3v2 --ty 2024 --tt Einstein A Go Go - 13 May 2024 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Speech --ta Triple R --tl Triple R /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.wav /srv/mm/3rrr/work13May/Einstein-A-Go-Go-20240513.mp3
+2024-05-13 08:51:01,748	INFO	Removing stale latest directory /srv/mm/3rrr/latest/ENS/
+2024-05-13 08:51:01,750	INFO	Copy the ENS show files to show and latest folders
+2024-05-13 08:51:01,781	INFO	Local web server publishing of files started
+2024-05-13 08:51:01,786	INFO	Delete local web server archive file /var/www/eagg/files/archive/Einstein-A-Go-Go-20240318.mp3
+2024-05-13 08:51:01,786	INFO	Github publishing of files started
