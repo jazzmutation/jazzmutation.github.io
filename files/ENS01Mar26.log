@@ -1,0 +1,969 @@
+2026-03-01 11:00:14,701	INFO	Start main routine for show ENS01Mar26
+2026-03-01 11:00:14,701	INFO	Removing old working directory /srv/mm/3rrr/work22Feb
+2026-03-01 11:00:14,727	INFO	Removing old show directory /srv/mm/3rrr/show22Feb
+2026-03-01 11:00:14,910	INFO	mplayer cmd: mplayer -endpos 01:02:00 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_1.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:00:14,981	INFO	waiting for mplayer to start, count:0
+2026-03-01 11:00:15,997	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:00:16,999	INFO	waiting for the wav file to grow, size:0
+2026-03-01 11:00:18,001	INFO	waiting for the wav file to grow, size:1638400
+2026-03-01 11:00:19,017	INFO	sampling rate is 44100
+2026-03-01 11:00:19,018	INFO	Status info: rc is 1  runtime is 0  remtime is 3720   fsize is 1966080
+2026-03-01 11:06:34,394	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:06:44,414	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:06:44,423	INFO	Show ENS remaining time: 3331
+2026-03-01 11:06:49,438	INFO	mplayer cmd: mplayer -endpos 00:55:31 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_2.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:06:49,447	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:06:50,449	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:06:51,450	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:06:52,451	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:06:53,453	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:06:54,454	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:06:55,455	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:06:56,457	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:06:57,458	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:06:58,459	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:06:59,461	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:07:00,462	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:07:01,463	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:07:02,465	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:07:03,466	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:07:04,467	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:07:05,469	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:07:06,470	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:07:07,471	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:07:08,473	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:07:09,473	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:07:10,475	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:07:11,476	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:07:12,477	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:07:13,479	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:07:14,480	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:07:15,481	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:07:16,483	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:07:17,484	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:07:18,485	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:07:19,487	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:07:20,488	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:07:21,489	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:07:22,491	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:07:23,492	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:07:24,494	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:07:25,495	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:07:26,496	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:07:27,498	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:07:28,499	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:07:29,500	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:07:30,502	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:07:30,502	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:07:30,502	INFO	Show ENS remaining time: 3285
+2026-03-01 11:07:35,516	INFO	mplayer cmd: mplayer -endpos 00:54:45 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_2.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:07:35,525	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:07:36,527	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:07:37,528	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:07:38,529	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:07:39,531	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:07:40,532	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:07:41,533	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:07:42,535	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:07:43,536	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:07:44,537	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:07:45,539	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:07:46,540	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:07:47,542	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:07:48,543	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:07:49,544	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:07:50,546	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:07:51,547	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:07:52,548	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:07:53,550	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:07:54,551	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:07:55,552	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:07:56,554	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:07:57,555	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:07:58,556	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:07:59,558	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:08:00,559	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:08:01,560	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:08:02,562	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:08:03,563	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:08:04,564	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:08:05,566	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:08:06,567	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:08:07,569	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:08:08,570	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:08:09,571	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:08:10,573	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:08:11,574	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:08:12,576	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:08:13,577	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:08:14,578	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:08:15,580	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:08:16,581	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:08:16,581	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:08:16,581	INFO	Show ENS remaining time: 3239
+2026-03-01 11:08:21,595	INFO	mplayer cmd: mplayer -endpos 00:53:59 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_2.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:08:21,605	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:08:22,606	INFO	waiting for the wav file to grow, size:0
+2026-03-01 11:08:23,608	INFO	waiting for the wav file to grow, size:1835008
+2026-03-01 11:08:24,614	INFO	sampling rate is 44100
+2026-03-01 11:08:24,615	INFO	Status info: rc is 1  runtime is 0  remtime is 3239   fsize is 2097152
+2026-03-01 11:09:39,692	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:09:49,713	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:09:49,723	INFO	Show ENS remaining time: 3145
+2026-03-01 11:09:54,737	INFO	mplayer cmd: mplayer -endpos 00:52:25 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_3.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:09:54,746	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:09:55,748	INFO	waiting for the wav file to grow, size:0
+2026-03-01 11:09:56,749	INFO	waiting for the wav file to grow, size:786432
+2026-03-01 11:09:57,750	INFO	waiting for the wav file to grow, size:1114112
+2026-03-01 11:09:58,752	INFO	waiting for the wav file to grow, size:1441792
+2026-03-01 11:09:59,753	INFO	waiting for the wav file to grow, size:1835008
+2026-03-01 11:10:00,759	INFO	sampling rate is 44100
+2026-03-01 11:10:00,759	INFO	Status info: rc is 1  runtime is 0  remtime is 3145   fsize is 2097152
+2026-03-01 11:28:46,899	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:28:51,916	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:29:01,936	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:29:01,946	INFO	Show ENS remaining time: 1993
+2026-03-01 11:29:06,959	INFO	mplayer cmd: mplayer -endpos 00:33:13 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:29:06,973	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:29:07,974	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:29:08,976	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:29:09,977	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:29:10,978	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:29:11,980	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:29:12,981	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:29:13,982	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:29:14,984	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:29:15,985	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:29:16,986	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:29:17,988	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:29:18,989	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:29:19,990	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:29:20,992	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:29:21,993	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:29:22,995	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:29:23,996	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:29:24,997	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:29:25,999	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:29:27,000	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:29:28,001	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:29:29,002	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:29:30,004	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:29:31,005	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:29:32,006	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:29:33,008	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:29:34,009	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:29:35,010	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:29:36,012	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:29:37,013	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:29:38,015	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:29:39,016	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:29:40,017	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:29:41,019	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:29:42,020	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:29:43,021	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:29:44,023	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:29:45,024	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:29:46,025	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:29:47,027	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:29:48,028	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:29:48,028	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:29:48,028	INFO	Show ENS remaining time: 1947
+2026-03-01 11:29:53,043	INFO	mplayer cmd: mplayer -endpos 00:32:27 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:29:53,056	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:29:54,058	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:29:55,059	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:29:56,061	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:29:57,062	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:29:58,063	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:29:59,065	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:30:00,066	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:30:01,067	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:30:02,069	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:30:03,070	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:30:04,071	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:30:05,073	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:30:06,074	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:30:07,075	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:30:08,077	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:30:09,078	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:30:10,079	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:30:11,081	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:30:12,082	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:30:13,083	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:30:14,084	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:30:15,086	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:30:16,087	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:30:17,088	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:30:18,090	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:30:19,091	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:30:20,092	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:30:21,094	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:30:22,095	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:30:23,097	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:30:24,098	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:30:25,099	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:30:26,101	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:30:27,102	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:30:28,103	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:30:29,105	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:30:30,106	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:30:31,107	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:30:32,109	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:30:33,110	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:30:34,111	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:30:34,111	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:30:34,111	INFO	Show ENS remaining time: 1901
+2026-03-01 11:30:39,125	INFO	mplayer cmd: mplayer -endpos 00:31:41 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:30:39,135	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:30:40,137	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:30:41,137	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:30:42,138	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:30:43,140	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:30:44,141	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:30:45,142	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:30:46,144	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:30:47,145	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:30:48,146	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:30:49,148	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:30:50,149	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:30:51,150	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:30:52,151	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:30:53,152	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:30:54,154	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:30:55,155	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:30:56,156	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:30:57,158	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:30:58,159	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:30:59,160	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:31:00,162	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:31:01,163	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:31:02,164	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:31:03,166	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:31:04,167	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:31:05,168	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:31:06,169	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:31:07,170	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:31:08,172	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:31:09,173	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:31:10,175	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:31:11,176	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:31:12,177	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:31:13,179	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:31:14,180	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:31:15,181	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:31:16,183	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:31:17,184	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:31:18,186	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:31:19,187	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:31:20,188	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:31:20,189	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:31:20,189	INFO	Show ENS remaining time: 1855
+2026-03-01 11:31:25,203	INFO	mplayer cmd: mplayer -endpos 00:30:55 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:31:25,213	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:31:26,214	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:31:27,215	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:31:28,217	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:31:29,218	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:31:30,219	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:31:31,221	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:31:32,222	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:31:33,223	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:31:34,225	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:31:35,226	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:31:36,227	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:31:37,229	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:31:38,230	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:31:39,231	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:31:40,233	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:31:41,234	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:31:42,235	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:31:43,237	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:31:44,238	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:31:45,239	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:31:46,241	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:31:47,242	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:31:48,243	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:31:49,245	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:31:50,246	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:31:51,247	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:31:52,249	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:31:53,250	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:31:54,251	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:31:55,253	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:31:56,254	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:31:57,255	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:31:58,257	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:31:59,258	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:32:00,259	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:32:01,261	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:32:02,262	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:32:03,263	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:32:04,265	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:32:05,266	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:32:06,267	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:32:06,268	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:32:06,268	INFO	Show ENS remaining time: 1809
+2026-03-01 11:32:11,282	INFO	mplayer cmd: mplayer -endpos 00:30:09 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:32:11,292	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:32:12,294	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:32:13,295	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:32:14,296	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:32:15,298	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:32:16,299	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:32:17,300	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:32:18,302	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:32:19,303	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:32:20,304	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:32:21,306	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:32:22,307	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:32:23,308	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:32:24,310	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:32:25,311	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:32:26,312	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:32:27,314	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:32:28,315	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:32:29,316	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:32:30,318	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:32:31,319	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:32:32,320	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:32:33,322	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:32:34,323	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:32:35,324	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:32:36,326	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:32:37,327	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:32:38,328	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:32:39,330	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:32:40,331	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:32:41,332	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:32:42,334	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:32:43,335	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:32:44,336	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:32:45,338	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:32:46,339	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:32:47,340	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:32:48,342	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:32:49,344	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:32:50,345	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:32:51,346	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:32:52,348	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:32:52,348	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:32:52,348	INFO	Show ENS remaining time: 1763
+2026-03-01 11:32:57,363	INFO	mplayer cmd: mplayer -endpos 00:29:23 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:32:57,374	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:32:58,375	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:32:59,377	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:33:00,378	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:33:01,379	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:33:02,381	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:33:03,382	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:33:04,384	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:33:05,385	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:33:06,386	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:33:07,388	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:33:08,389	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:33:09,390	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:33:10,392	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:33:11,393	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:33:12,394	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:33:13,396	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:33:14,397	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:33:15,398	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:33:16,400	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:33:17,401	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:33:18,402	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:33:19,404	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:33:20,405	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:33:21,407	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:33:22,408	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:33:23,409	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:33:24,411	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:33:25,412	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:33:26,413	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:33:27,415	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:33:28,416	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:33:29,417	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:33:30,419	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:33:31,420	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:33:32,421	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:33:33,423	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:33:34,424	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:33:35,425	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:33:36,427	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:33:37,428	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:33:38,429	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:33:38,429	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:33:38,429	INFO	Show ENS remaining time: 1717
+2026-03-01 11:33:43,443	INFO	mplayer cmd: mplayer -endpos 00:28:37 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:33:43,453	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:33:44,454	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:33:45,455	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:33:46,457	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:33:47,458	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:33:48,459	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:33:49,461	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:33:50,462	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:33:51,464	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:33:52,465	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:33:53,466	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:33:54,468	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:33:55,469	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:33:56,471	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:33:57,472	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:33:58,474	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:33:59,475	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:34:00,476	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:34:01,478	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:34:02,479	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:34:03,480	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:34:04,482	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:34:05,483	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:34:06,485	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:34:07,486	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:34:08,487	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:34:09,489	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:34:10,490	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:34:11,491	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:34:12,493	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:34:13,494	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:34:14,495	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:34:15,497	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:34:16,498	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:34:17,499	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:34:18,501	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:34:19,502	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:34:20,503	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:34:21,505	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:34:22,506	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:34:23,507	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:34:24,509	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:34:24,509	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:34:24,509	INFO	Show ENS remaining time: 1671
+2026-03-01 11:34:29,523	INFO	mplayer cmd: mplayer -endpos 00:27:51 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:34:29,533	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:34:30,534	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:34:31,536	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:34:32,537	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:34:33,538	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:34:34,540	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:34:35,541	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:34:36,543	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:34:37,544	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:34:38,545	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:34:39,546	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:34:40,548	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:34:41,549	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:34:42,550	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:34:43,552	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:34:44,553	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:34:45,554	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:34:46,556	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:34:47,557	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:34:48,558	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:34:49,560	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:34:50,561	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:34:51,563	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:34:52,564	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:34:53,565	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:34:54,566	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:34:55,568	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:34:56,569	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:34:57,570	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:34:58,572	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:34:59,573	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:35:00,575	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:35:01,576	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:35:02,577	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:35:03,579	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:35:04,580	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:35:05,581	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:35:06,583	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:35:07,584	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:35:08,585	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:35:09,587	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:35:10,588	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:35:10,588	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:35:10,588	INFO	Show ENS remaining time: 1625
+2026-03-01 11:35:15,602	INFO	mplayer cmd: mplayer -endpos 00:27:05 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:35:15,612	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:35:16,613	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:35:17,615	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:35:18,616	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:35:19,618	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:35:20,619	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:35:21,620	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:35:22,622	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:35:23,623	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:35:24,624	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:35:25,626	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:35:26,627	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:35:27,628	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:35:28,629	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:35:29,631	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:35:30,632	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:35:31,633	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:35:32,635	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:35:33,636	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:35:34,637	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:35:35,639	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:35:36,640	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:35:37,641	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:35:38,643	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:35:39,644	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:35:40,645	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:35:41,647	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:35:42,648	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:35:43,649	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:35:44,651	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:35:45,652	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:35:46,653	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:35:47,655	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:35:48,656	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:35:49,657	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:35:50,662	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:35:51,664	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:35:52,665	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:35:53,667	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:35:54,668	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:35:55,669	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:35:56,671	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:35:56,671	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:35:56,671	INFO	Show ENS remaining time: 1579
+2026-03-01 11:36:01,683	INFO	mplayer cmd: mplayer -endpos 00:26:19 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:36:01,694	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:36:02,695	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:36:03,696	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:36:04,698	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:36:05,699	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:36:06,700	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:36:07,702	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:36:08,703	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:36:09,704	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:36:10,706	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:36:11,707	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:36:12,708	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:36:13,710	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:36:14,711	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:36:15,712	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:36:16,714	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:36:17,715	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:36:18,716	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:36:19,718	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:36:20,719	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:36:21,720	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:36:22,722	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:36:23,723	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:36:24,724	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:36:25,726	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:36:26,727	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:36:27,728	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:36:28,730	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:36:29,731	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:36:30,732	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:36:31,734	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:36:32,735	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:36:33,736	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:36:34,738	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:36:35,739	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:36:36,740	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:36:37,742	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:36:38,743	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:36:39,744	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:36:40,746	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:36:41,747	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:36:42,748	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:36:42,749	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:36:42,749	INFO	Show ENS remaining time: 1532
+2026-03-01 11:36:47,763	INFO	mplayer cmd: mplayer -endpos 00:25:32 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:36:47,775	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:36:48,777	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:36:49,778	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:36:50,780	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:36:51,781	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:36:52,782	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:36:53,784	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:36:54,785	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:36:55,786	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:36:56,788	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:36:57,789	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:36:58,791	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:36:59,792	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:37:00,793	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:37:01,795	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:37:02,796	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:37:03,797	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:37:04,799	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:37:05,800	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:37:06,801	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:37:07,803	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:37:08,804	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:37:09,805	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:37:10,807	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:37:11,808	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:37:12,809	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:37:13,811	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:37:14,812	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:37:15,813	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:37:16,815	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:37:17,816	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:37:18,817	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:37:19,819	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:37:20,820	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:37:21,821	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:37:22,823	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:37:23,824	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:37:24,825	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:37:25,827	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:37:26,828	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:37:27,829	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:37:28,831	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:37:28,831	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:37:28,831	INFO	Show ENS remaining time: 1486
+2026-03-01 11:37:33,845	INFO	mplayer cmd: mplayer -endpos 00:24:46 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:37:33,855	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:37:34,856	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:37:35,858	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:37:36,859	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:37:37,860	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:37:38,862	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:37:39,863	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:37:40,864	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:37:41,866	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:37:42,867	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:37:43,868	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:37:44,870	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:37:45,871	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:37:46,872	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:37:47,873	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:37:48,874	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:37:49,876	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:37:50,877	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:37:51,878	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:37:52,880	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:37:53,881	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:37:54,882	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:37:55,884	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:37:56,885	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:37:57,886	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:37:58,888	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:37:59,889	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:38:00,890	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:38:01,892	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:38:02,893	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:38:03,895	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:38:04,896	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:38:05,897	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:38:06,899	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:38:07,900	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:38:08,901	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:38:09,903	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:38:10,904	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:38:11,906	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:38:12,907	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:38:13,908	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:38:14,910	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:38:14,910	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:38:14,910	INFO	Show ENS remaining time: 1440
+2026-03-01 11:38:19,924	INFO	mplayer cmd: mplayer -endpos 00:24:00 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:38:19,933	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:38:20,935	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:38:21,936	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:38:22,937	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:38:23,939	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:38:24,940	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:38:25,941	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:38:26,943	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:38:27,944	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:38:28,945	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:38:29,947	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:38:30,948	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:38:31,949	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:38:32,951	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:38:33,952	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:38:34,953	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:38:35,955	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:38:36,956	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:38:37,958	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:38:38,959	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:38:39,960	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:38:40,962	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:38:41,963	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:38:42,964	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:38:43,965	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:38:44,967	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:38:45,968	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:38:46,970	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:38:47,971	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:38:48,972	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:38:49,974	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:38:50,975	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:38:51,976	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:38:52,978	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:38:53,979	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:38:54,981	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:38:55,982	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:38:56,983	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:38:57,985	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:38:58,986	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:38:59,987	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:39:00,989	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:39:00,989	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:39:00,989	INFO	Show ENS remaining time: 1394
+2026-03-01 11:39:06,004	INFO	mplayer cmd: mplayer -endpos 00:23:14 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:39:06,020	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:39:07,021	INFO	waiting for the wav file to grow, size:0
+2026-03-01 11:39:08,022	INFO	waiting for the wav file to grow, size:1835008
+2026-03-01 11:39:09,029	INFO	sampling rate is 44100
+2026-03-01 11:39:09,029	INFO	Status info: rc is 1  runtime is 0  remtime is 1394   fsize is 2162688
+2026-03-01 11:55:30,010	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:55:35,026	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:55:45,046	CRITICAL	ALERT: Wave file is not increasing in size
+2026-03-01 11:55:45,055	INFO	Show ENS remaining time: 390
+2026-03-01 11:55:50,069	INFO	mplayer cmd: mplayer -endpos 00:06:30 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:55:50,079	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:55:51,081	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:55:52,082	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:55:53,083	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:55:54,085	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:55:55,086	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:55:56,087	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:55:57,089	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:55:58,090	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:55:59,091	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:56:00,093	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:56:01,094	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:56:02,096	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:56:03,097	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:56:04,098	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:56:05,100	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:56:06,101	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:56:07,102	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:56:08,104	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:56:09,105	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:56:10,106	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:56:11,108	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:56:12,109	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:56:13,110	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:56:14,112	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:56:15,113	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:56:16,114	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:56:17,116	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:56:18,117	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:56:19,118	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:56:20,120	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:56:21,121	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:56:22,122	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:56:23,124	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:56:24,125	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:56:25,126	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:56:26,128	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:56:27,130	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:56:28,131	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:56:29,132	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:56:30,133	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:56:31,135	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:56:31,135	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:56:31,135	INFO	Show ENS remaining time: 344
+2026-03-01 11:56:36,149	INFO	mplayer cmd: mplayer -endpos 00:05:44 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:56:36,159	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:56:37,160	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:56:38,161	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:56:39,163	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:56:40,164	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:56:41,165	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:56:42,167	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:56:43,168	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:56:44,169	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:56:45,171	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:56:46,172	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:56:47,173	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:56:48,175	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:56:49,176	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:56:50,177	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:56:51,179	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:56:52,180	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:56:53,181	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:56:54,183	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:56:55,184	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:56:56,185	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:56:57,186	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:56:58,187	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:56:59,189	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:57:00,190	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:57:01,191	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:57:02,193	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:57:03,194	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:57:04,195	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:57:05,197	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:57:06,198	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:57:07,199	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:57:08,201	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:57:09,202	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:57:10,203	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:57:11,205	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:57:12,206	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:57:13,207	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:57:14,209	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:57:15,209	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:57:16,210	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:57:17,212	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:57:17,212	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:57:17,212	INFO	Show ENS remaining time: 298
+2026-03-01 11:57:22,226	INFO	mplayer cmd: mplayer -endpos 00:04:58 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:57:22,236	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:57:23,237	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:57:24,239	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:57:25,240	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:57:26,241	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:57:27,242	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:57:28,244	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:57:29,245	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:57:30,246	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:57:31,248	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:57:32,249	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:57:33,250	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:57:34,252	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:57:35,253	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:57:36,254	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:57:37,256	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:57:38,257	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:57:39,258	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:57:40,260	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:57:41,261	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:57:42,262	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:57:43,264	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:57:44,265	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:57:45,266	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:57:46,268	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:57:47,269	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:57:48,270	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:57:49,272	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:57:50,273	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:57:51,275	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:57:52,276	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:57:53,277	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:57:54,279	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:57:55,280	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:57:56,281	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:57:57,283	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:57:58,284	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:57:59,285	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:58:00,286	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:58:01,287	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:58:02,289	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:58:03,290	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:58:03,290	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:58:03,290	INFO	Show ENS remaining time: 252
+2026-03-01 11:58:08,304	INFO	mplayer cmd: mplayer -endpos 00:04:12 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:58:08,314	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:58:09,315	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:58:10,316	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:58:11,318	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:58:12,319	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:58:13,320	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:58:14,322	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:58:15,323	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:58:16,325	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:58:17,326	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:58:18,327	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:58:19,329	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:58:20,330	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:58:21,331	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:58:22,332	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:58:23,334	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:58:24,335	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:58:25,337	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:58:26,337	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:58:27,338	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:58:28,340	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:58:29,341	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:58:30,342	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:58:31,344	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:58:32,345	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:58:33,346	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:58:34,348	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:58:35,349	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:58:36,350	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:58:37,352	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:58:38,353	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:58:39,354	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:58:40,356	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:58:41,357	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:58:42,358	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:58:43,360	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:58:44,361	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:58:45,362	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:58:46,364	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:58:47,365	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:58:48,366	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:58:49,368	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:58:49,368	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:58:49,368	INFO	Show ENS remaining time: 206
+2026-03-01 11:58:54,382	INFO	mplayer cmd: mplayer -endpos 00:03:26 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:58:54,394	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:58:55,396	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:58:56,397	INFO	waiting for mplayer to create the wav file, count:2
+2026-03-01 11:58:57,398	INFO	waiting for mplayer to create the wav file, count:3
+2026-03-01 11:58:58,400	INFO	waiting for mplayer to create the wav file, count:4
+2026-03-01 11:58:59,401	INFO	waiting for mplayer to create the wav file, count:5
+2026-03-01 11:59:00,402	INFO	waiting for mplayer to create the wav file, count:6
+2026-03-01 11:59:01,404	INFO	waiting for mplayer to create the wav file, count:7
+2026-03-01 11:59:02,405	INFO	waiting for mplayer to create the wav file, count:8
+2026-03-01 11:59:03,406	INFO	waiting for mplayer to create the wav file, count:9
+2026-03-01 11:59:04,408	INFO	waiting for mplayer to create the wav file, count:10
+2026-03-01 11:59:05,409	INFO	waiting for mplayer to create the wav file, count:11
+2026-03-01 11:59:06,410	INFO	waiting for mplayer to create the wav file, count:12
+2026-03-01 11:59:07,412	INFO	waiting for mplayer to create the wav file, count:13
+2026-03-01 11:59:08,413	INFO	waiting for mplayer to create the wav file, count:14
+2026-03-01 11:59:09,414	INFO	waiting for mplayer to create the wav file, count:15
+2026-03-01 11:59:10,416	INFO	waiting for mplayer to create the wav file, count:16
+2026-03-01 11:59:11,417	INFO	waiting for mplayer to create the wav file, count:17
+2026-03-01 11:59:12,418	INFO	waiting for mplayer to create the wav file, count:18
+2026-03-01 11:59:13,420	INFO	waiting for mplayer to create the wav file, count:19
+2026-03-01 11:59:14,421	INFO	waiting for mplayer to create the wav file, count:20
+2026-03-01 11:59:15,422	INFO	waiting for mplayer to create the wav file, count:21
+2026-03-01 11:59:16,424	INFO	waiting for mplayer to create the wav file, count:22
+2026-03-01 11:59:17,425	INFO	waiting for mplayer to create the wav file, count:23
+2026-03-01 11:59:18,426	INFO	waiting for mplayer to create the wav file, count:24
+2026-03-01 11:59:19,428	INFO	waiting for mplayer to create the wav file, count:25
+2026-03-01 11:59:20,429	INFO	waiting for mplayer to create the wav file, count:26
+2026-03-01 11:59:21,430	INFO	waiting for mplayer to create the wav file, count:27
+2026-03-01 11:59:22,432	INFO	waiting for mplayer to create the wav file, count:28
+2026-03-01 11:59:23,433	INFO	waiting for mplayer to create the wav file, count:29
+2026-03-01 11:59:24,434	INFO	waiting for mplayer to create the wav file, count:30
+2026-03-01 11:59:25,435	INFO	waiting for mplayer to create the wav file, count:31
+2026-03-01 11:59:26,436	INFO	waiting for mplayer to create the wav file, count:32
+2026-03-01 11:59:27,437	INFO	waiting for mplayer to create the wav file, count:33
+2026-03-01 11:59:28,439	INFO	waiting for mplayer to create the wav file, count:34
+2026-03-01 11:59:29,440	INFO	waiting for mplayer to create the wav file, count:35
+2026-03-01 11:59:30,441	INFO	waiting for mplayer to create the wav file, count:36
+2026-03-01 11:59:31,443	INFO	waiting for mplayer to create the wav file, count:37
+2026-03-01 11:59:32,444	INFO	waiting for mplayer to create the wav file, count:38
+2026-03-01 11:59:33,445	INFO	waiting for mplayer to create the wav file, count:39
+2026-03-01 11:59:34,447	INFO	waiting for mplayer to create the wav file, count:40
+2026-03-01 11:59:35,448	WARNING	exceeded 40sec wait, will try again
+2026-03-01 11:59:35,448	WARNING	Warning: Unable to start recording, check internet connection.
+2026-03-01 11:59:35,448	INFO	Show ENS remaining time: 160
+2026-03-01 11:59:40,462	INFO	mplayer cmd: mplayer -endpos 00:02:40 -quiet -nocache -vo null -vc dummy -ao pcm:waveheader:file=/srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav http://realtime.rrr.org.au/p1h
+2026-03-01 11:59:40,473	INFO	waiting for mplayer to create the wav file, count:0
+2026-03-01 11:59:41,474	INFO	waiting for mplayer to create the wav file, count:1
+2026-03-01 11:59:42,476	INFO	waiting for the wav file to grow, size:0
+2026-03-01 11:59:43,477	INFO	waiting for the wav file to grow, size:589824
+2026-03-01 11:59:44,478	INFO	waiting for the wav file to grow, size:917504
+2026-03-01 11:59:45,480	INFO	waiting for the wav file to grow, size:1376256
+2026-03-01 11:59:46,481	INFO	waiting for the wav file to grow, size:1769472
+2026-03-01 11:59:47,488	INFO	sampling rate is 44100
+2026-03-01 11:59:47,488	INFO	Status info: rc is 1  runtime is 0  remtime is 160   fsize is 2031616
+2026-03-01 12:02:27,655	INFO	Show ENS remaining time: 0
+2026-03-01 12:02:32,660	INFO	sox cmd: sox /srv/mm/3rrr/work01Mar/ENS01Mar26.wav_1.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.wav_2.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.wav_3.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.wav_4.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.wav_5.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.wav
+2026-03-01 12:03:06,302	INFO	sox cmd: sox /srv/mm/3rrr/work01Mar/ENS01Mar26.wav -c1 -b16 /srv/mm/3rrr/work01Mar/Einstein-A-Go-Go-20260301.wav_mon.wav
+2026-03-01 12:03:30,366	INFO	sox cmd: sox /srv/mm/3rrr/work01Mar/Einstein-A-Go-Go-20260301.wav /srv/mm/3rrr/work01Mar/Einstein-A-Go-Go-20260301.wav_loud.wav compand 0.01,1 -90,-90,-70,-70,-60,-20,0,0 -5
+2026-03-01 12:03:50,257	INFO	lame cmd: lame --quiet -b 320 --add-id3v2 --ty 2026 --tt Einstein A Go Go - 01 March 2026 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Podcast --ta Einstein A Go Go --tl Triple R FM /srv/mm/3rrr/work01Mar/ENS01Mar26.wav /srv/mm/3rrr/work01Mar/ENS01Mar26.mp3
+2026-03-01 12:06:47,277	INFO	lame cmd: lame --quiet --preset 64 --add-id3v2 --ty 2026 --tt Einstein A Go Go - 01 March 2026 --tc Einstein A Go Go can be heard every Sunday at 11.00am on 3RRR FM 102.7 MHz in Melbourne, Australia (http://www.rrr.org.au). Visit our website for more information (http://www.rrr.org.au/program/einstein-a-go-go/). --tg Speech --ta Triple R --tl Triple R /srv/mm/3rrr/work01Mar/Einstein-A-Go-Go-20260301.wav /srv/mm/3rrr/work01Mar/Einstein-A-Go-Go-20260301.mp3
+2026-03-01 12:08:20,401	INFO	Removing stale latest directory /srv/mm/3rrr/latest/ENS/
+2026-03-01 12:08:20,405	INFO	Copy the ENS show files to show and latest folders
+2026-03-01 12:08:23,851	INFO	Local web server publishing of files started
+2026-03-01 12:08:24,674	INFO	Removing old file /var/www/eagg/files/Einstein-A-Go-Go-20260215.mp3
+2026-03-01 12:08:24,690	INFO	Removing old file /var/www/eagg/files/ENS15Feb26.log
+2026-03-01 12:08:24,690	INFO	Delete local web server archive file /var/www/eagg/files/archive/Einstein-A-Go-Go-20260104.mp3
+2026-03-01 12:08:24,690	INFO	Removing old file /var/www/eagg/files/archive/Einstein-A-Go-Go-20260104.mp3
+2026-03-01 12:08:24,698	INFO	Github publishing of files started
